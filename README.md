@@ -1,4 +1,4 @@
-# Recruitment Task — Virtual Columns in Pandas DataFrame
+# Virtual Columns in Pandas DataFrame
 
 Implementation of `add_virtual_column` function that adds a computed column to a pandas DataFrame based on a mathematical expression.
 
